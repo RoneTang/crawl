@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/tangr/test/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="109">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/tangr/util/Spider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -99,10 +99,10 @@
             <state relative-caret-position="2640">
               <caret line="164" column="18" lean-forward="false" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
               <folding>
-                <marker date="1500301598568" expanded="true" signature="60611:60653" ph="..." />
-                <marker date="1500301598568" expanded="true" signature="60611:60671" ph="..." />
-                <marker date="1500301598568" expanded="true" signature="60611:60684" ph="..." />
-                <marker date="1500301598568" expanded="true" signature="60611:60699" ph="..." />
+                <marker date="1500301638363" expanded="true" signature="60603:60645" ph="..." />
+                <marker date="1500301638363" expanded="true" signature="60603:60663" ph="..." />
+                <marker date="1500301638363" expanded="true" signature="60603:60676" ph="..." />
+                <marker date="1500301638363" expanded="true" signature="60603:60691" ph="..." />
               </folding>
             </state>
           </provider>
@@ -722,12 +722,12 @@
       <workItem from="1495455055331" duration="68000" />
       <workItem from="1495869930525" duration="4000" />
       <workItem from="1500300684426" duration="336000" />
-      <workItem from="1500301305461" duration="332000" />
+      <workItem from="1500301305461" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34777000" />
+    <option name="totallyTimeSpent" value="34972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1126,10 +1126,10 @@
         <state relative-caret-position="2640">
           <caret line="164" column="18" lean-forward="false" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
           <folding>
-            <marker date="1500301598568" expanded="true" signature="60611:60653" ph="..." />
-            <marker date="1500301598568" expanded="true" signature="60611:60671" ph="..." />
-            <marker date="1500301598568" expanded="true" signature="60611:60684" ph="..." />
-            <marker date="1500301598568" expanded="true" signature="60611:60699" ph="..." />
+            <marker date="1500301638363" expanded="true" signature="60603:60645" ph="..." />
+            <marker date="1500301638363" expanded="true" signature="60603:60663" ph="..." />
+            <marker date="1500301638363" expanded="true" signature="60603:60676" ph="..." />
+            <marker date="1500301638363" expanded="true" signature="60603:60691" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1137,7 +1137,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/tangr/test/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
