@@ -84,8 +84,7 @@ public class ZhiHuPicBean {
             if (count != picUrlSet.size())
                 count = picUrlSet.size();
             else
-                break;;
-
+                break;
         }
     }
 
