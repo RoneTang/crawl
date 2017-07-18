@@ -22,10 +22,10 @@ public class Spider {
             if (pic.length() < 100)
                 System.out.println(pic);
         }*/
-        /*for (String set : zhiHuPicBean.picUrlSet) {
+        for (String set : zhiHuPicBean.picUrlSet) {
 
             System.out.println(set);
-        }*/
+        }
         System.out.println("");
 
         String address = "E:/知乎爬虫/";
