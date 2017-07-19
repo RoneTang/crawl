@@ -43,14 +43,14 @@ public class ZhiHuPicBean {
         while (true) {
             tempUrl = getRealUrl(url, offset);
             offset += 20;
-            System.out.println("-----------------------------------");
+            //System.out.println("-----------------------------------");
             // 判断url是否合法
             if (url != "") {
-                System.out.println("正在抓取知乎链接：" + tempUrl);
+                //System.out.println("正在抓取知乎链接：" + tempUrl);
 
                 // 根据url获取该问答的细节
                 String content = Util.doGet(tempUrl);
-                System.out.println(content);
+                //System.out.println(content);
                 Pattern pattern;
                 Matcher matcher;
                 // 匹配标题
@@ -83,8 +83,10 @@ public class ZhiHuPicBean {
 
             if (count != picUrlSet.size())
                 count = picUrlSet.size();
-            else
+            else{
+                System.out.println("成功获取所有图片URL");
                 break;
+            }
         }
     }
 

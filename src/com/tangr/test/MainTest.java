@@ -18,7 +18,7 @@ public class MainTest {
         // 访问链接并获取页面内容
         //Spider.downloadPic(url,title);
 
-        String url = "https://www.zhihu.com/question/62560062/answer/199857170";
+        String url = "https://www.zhihu.com/question/29134042";
         HashMap<String, String> mapInfo = (HashMap) Util.getInfo(url);
         //System.out.println(mapInfo.get("title"));
         //System.out.println(mapInfo.get("question"));

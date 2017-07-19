@@ -51,9 +51,10 @@ public class Util {
 
         String result = doGet(url);
 
-        System.out.println(result);
+        //System.out.println(result);
+        System.out.println("成功获取问题标题和问题标号");
 
-        String regexTitle = "<title .+?>(.+?)\\? - 知乎</title>";
+        String regexTitle = "<title .+?>(.+?)[\\?|？] - 知乎</title>";
         String regexQuestion = "question/(\\d+)";
         Pattern pattern = Pattern.compile(regexTitle);
         Matcher matcher = pattern.matcher(result);
